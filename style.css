@@ -1,0 +1,42 @@
+body {
+    background-color: #0ecef0;
+    font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-size: 18 px;
+    margin: 0;
+}
+
+header {
+    background-color: #4a0ef0;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 80%;
+    margin : 0 auto;
+    max-width: 1000px;
+
+}
+section {
+    float: left;
+    width: 75%;
+}
+aside {
+    float: right;
+    width: 25%
+}
+footer {
+    background-color:  #4a0ef0;
+    clear: both;
+    padding: 10px 10px;
+    text-align: center;
+    color: white;
+
+}
+
+a:hover{
+    color:yellow;
+}
